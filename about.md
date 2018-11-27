@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Erik Marshall. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Writer. Educator. Lecturer at University of Michigan - Dearborn.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[erik@erikmarshall.net](mailto:erik@erikmarshall.net)
