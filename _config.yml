@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Erik Marshall
+name: That's a Wrap
 
 # Short bio or description (displayed in the header)
-description: Writer, Educator
+description: A podcast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/41658503?s=400&v=4
@@ -22,11 +22,11 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram: emarshphd
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: emarsh
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
